@@ -137,6 +137,35 @@ The project includes sample datasets for testing:
 - **Technical Documentation**: LangChain and related documentation
 - **Custom Documents**: Your own document collection
 
+## 🎓 Agentic AI Developer Certification
+
+This project is submitted for the **Agentic AI Developer Certification Program** and demonstrates:
+
+### ✅ Core Requirements Met
+- **LangChain Integration**: Complete RAG pipeline implementation
+- **Vector Store**: FAISS and ChromaDB integration
+- **Document Ingestion**: Support for multiple file formats
+- **LLM Integration**: OpenAI API integration
+- **User Interface**: Both CLI and Streamlit web interface
+
+### 🚀 Optional Enhancements Implemented
+- **Conversation Memory**: Session-based context retention
+- **Advanced Retrieval**: Configurable similarity thresholds
+- **Comprehensive Logging**: Debug and performance monitoring
+- **Error Handling**: Robust error management and user feedback
+
+### 📊 Certification Evaluation
+Run the certification evaluation script:
+```bash
+python certification_evaluation.py
+```
+
+### 🎬 Demo for Reviewers
+Run the certification demo:
+```bash
+python examples/certification_demo.py
+```
+
 ## 🚀 Advanced Features
 
 ### Memory and Context
@@ -153,6 +182,22 @@ The project includes sample datasets for testing:
 - Query logging and analytics
 - Performance metrics
 - Error tracking and debugging
+
+## 📋 Submission Checklist
+
+- [x] Working RAG pipeline with LangChain
+- [x] Vector store integration (FAISS/Chroma)
+- [x] Document ingestion capabilities
+- [x] User interface (CLI + Web)
+- [x] Example queries and outputs
+- [x] Comprehensive documentation
+- [x] Clean, maintainable code
+- [x] Performance evaluation
+- [x] Error handling and logging
+- [x] Certification evaluation script
+- [x] Demo script for reviewers
+- [x] Enhanced sample datasets
+- [x] Ready Tensor publications simulation
 
 ## 📊 Evaluation
 

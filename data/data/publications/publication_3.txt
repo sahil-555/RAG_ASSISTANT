@@ -1,0 +1,25 @@
+Title: Conversational Memory in RAG Systems
+Author: Dr. Emily Watson
+Tags: Memory, Conversation, Context, User Experience
+
+
+        This research investigates the role of conversational memory in RAG systems and its impact on user experience. We propose a novel memory architecture that maintains context across multiple conversation turns.
+
+        Key Findings:
+        - Contextual memory improves user satisfaction by 35%
+        - Memory decay functions enhance conversation flow
+        - Adaptive memory sizing optimizes performance
+
+        Methodology:
+        We developed a sliding window memory system with attention-based context selection. The system was evaluated on 500 multi-turn conversations with human evaluators.
+
+        Limitations:
+        - Memory size affects response time
+        - Context selection can be computationally expensive
+        - Requires careful tuning of decay parameters
+
+        Tools and Models Used:
+        - LSTM for sequence modeling
+        - Attention mechanism for context selection
+        - Custom decay functions
+        

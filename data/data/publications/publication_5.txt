@@ -1,0 +1,25 @@
+Title: Evaluating RAG System Performance: A Comprehensive Framework
+Author: Dr. Lisa Thompson
+Tags: Evaluation, Metrics, Performance, Framework
+
+
+        This publication introduces a comprehensive framework for evaluating RAG system performance across multiple dimensions. We propose standardized metrics and evaluation protocols for the RAG community.
+
+        Key Findings:
+        - Multi-dimensional evaluation provides better insights
+        - Human evaluation remains crucial for quality assessment
+        - Automated metrics correlate well with human judgment
+
+        Methodology:
+        We developed evaluation metrics covering retrieval accuracy, response quality, relevance, and user satisfaction. The framework was tested on 50 different RAG implementations.
+
+        Limitations:
+        - Evaluation can be time-consuming
+        - Some metrics require human annotators
+        - Results may vary across domains
+
+        Tools and Models Used:
+        - BLEU and ROUGE metrics
+        - Custom relevance scoring
+        - Human evaluation platform
+        
