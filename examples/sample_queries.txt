@@ -1,0 +1,45 @@
+Sample Queries for RAG Assistant Testing
+
+These are example questions you can ask the RAG assistant to test its capabilities:
+
+Basic Information Questions:
+- What is artificial intelligence?
+- What are the main types of machine learning?
+- How does deep learning work?
+- What is natural language processing?
+
+Specific Detail Questions:
+- What are the applications of AI in healthcare?
+- What algorithms are used in supervised learning?
+- What are the challenges in AI development?
+- What evaluation metrics are used in machine learning?
+
+Analysis Questions:
+- Can you compare supervised and unsupervised learning?
+- What are the differences between AI and machine learning?
+- How do neural networks work in deep learning?
+- What are the ethical considerations in AI?
+
+Summary Questions:
+- Can you summarize the main points about AI?
+- What are the key concepts in machine learning?
+- Give me an overview of deep learning applications
+- What are the main challenges and future directions?
+
+Comparative Questions:
+- How does machine learning differ from traditional programming?
+- What are the advantages and disadvantages of different ML types?
+- Compare the use cases of different AI technologies
+
+Technical Questions:
+- What is overfitting in machine learning?
+- How do you evaluate machine learning models?
+- What are features and labels in ML?
+- How does reinforcement learning work?
+
+These queries will help you test various aspects of the RAG system:
+- Document retrieval accuracy
+- Response quality and relevance
+- Context understanding
+- Source citation
+- Memory and conversation flow
