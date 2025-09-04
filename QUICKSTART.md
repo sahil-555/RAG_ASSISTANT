@@ -1,8 +1,6 @@
 # 🚀 RAG Assistant Quick Start Guide
 
-Get your RAG Assistant up and running in minutes!
-
-## ⚡ Quick Setup (5 minutes)
+## ⚡ Quick Setup
 
 ### 1. Install Dependencies
 ```bash
@@ -118,9 +116,8 @@ python test_rag_assistant.py
 3. **Extend Functionality**: Add new document loaders or vector stores
 4. **Deploy**: Use the Streamlit app for production deployment
 
-## 🎉 You're Ready!
 
-Your RAG Assistant is now ready to:
+The RAG Assistant is now ready to:
 - Answer questions from your documents
 - Maintain conversation context
 - Provide source citations
